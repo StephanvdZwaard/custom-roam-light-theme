@@ -183,9 +183,10 @@ span.bp3-icon-small.bp3-icon-star {
     font-weight: 600;
 }
 a {
-    color: #1781c3
-
-;
+    color: #1781c3;
+}
+a[href^="https://www.evernote.com/"] {
+    color: #ec6f35;
 }
 .intercom-app,
 .intercom-launcher-frame,
