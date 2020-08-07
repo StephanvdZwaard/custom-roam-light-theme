@@ -21,9 +21,9 @@ As you may have noticed, the data tags also include symbols and icons before the
 <hr>
 
 Based on the URL of the hyperlink, you can now also create custom colors for specific websites.
-In this example, references made to a URL that starts with https://www.evernote.com will be colored orange instead of blue.
+In this example, references made to a URL that starts with https://medium.com will be colored orange instead of blue.
 
-![custom-hyperlinks](https://github.com/StephanvdZwaard/custom-roam-light-theme/blob/master/custom-hyperlinks.png)
+![custom-hyperlinks](https://github.com/StephanvdZwaard/custom-roam-light-theme/blob/master/custom-hyperlink.png)
 
 
 <h2>Example of reading list </h2>
