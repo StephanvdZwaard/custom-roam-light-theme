@@ -1,0 +1,255 @@
+/*  Customized data tags. */
+
+span.rm-page-ref[data-tag="Weekly review"]:before {
+    content: "🗓️ "
+}
+span.rm-page-ref[data-tag="deadline"]:before {
+    content: "⏰ "
+}
+span.rm-page-ref[data-tag="scheduled"]:before {
+    content: "🗓️ "
+}
+span.rm-page-ref[data-tag="Email"]:before {
+    content: "📩 "
+}
+span.rm-page-ref[data-tag="waitingfor"]:before {
+    content: "⏳ "
+}
+span.rm-page-ref[data-tag="food-for-thought"]:before {
+    content: "💭 "
+}
+span.rm-page-ref[data-tag="Questions"]:before {
+    content: "❓ "
+}
+span.rm-page-ref[data-tag="accepted"]:before {
+    content: "✔️ "
+}
+span.rm-page-ref[data-tag="published"]:before {
+    content: "✔️ "
+}
+span.rm-page-ref[data-tag="rejected"]:before {
+    content: "❌ "
+}
+span.rm-page-ref[data-tag="state-of-mind"]:before {
+    content: "💭 "
+}
+span.rm-page-ref[data-tag="in progress"]:before {
+    content: "🔄 "
+}
+span.rm-page-ref[data-tag="Archives"]:before {
+    content: "🗄️ "
+}
+span.rm-page-ref[data-tag="Projects"]:before {
+    content: "📁 "
+}
+span.rm-page-ref[data-tag="Research"]:before {
+    content: "🔍 "
+}
+span.rm-page-ref[data-tag="Data science"]:before {
+    content: "🖥️ "
+}
+span.rm-page-ref[data-tag="Goals"]:before {
+    content: "🎯 "
+}
+span.rm-page-ref[data-tag="Books"]:before {
+    content: "📖 "
+}
+span.rm-page-ref[data-tag="Podcasts"]:before {
+    content: "🎧 "
+}
+span.rm-page-ref[data-tag="Call"]:before {
+    content: "📞 "
+}
+span.rm-page-ref[data-tag="Writing"]:before {
+    content: "✍️ "
+}
+span.rm-page-ref[data-tag="Meeting"]:before {
+    content: "💬 "
+}
+span.rm-page-ref[data-tag="Ideas"]:before {
+    content: "💡 "
+}
+
+span.rm-page-ref[data-tag="TwitterPost"] {
+    background: #81D5ED;
+    color: white;
+    padding: 2px 5px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="to listen"] {
+    background: #1a90d9;
+    color: white;
+    padding: 2px 5px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="to read"] {
+    background: #1470a9;
+    color: white;
+    padding: 2px 5px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="to watch"] {
+    background: #4ab3f4;
+    color: white;
+    padding: 2px 5px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Articles"] {
+    background: #ffc89d;
+    color: white;
+    padding: 2px 5px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Scientific articles"] {
+    background: #ffa762;
+    color: white;
+    padding: 2px 5px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Ideas"] {
+    background: #576d7e;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Writing"] {
+    background: #8998a4;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Meeting"] {
+    background: #8998a4;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Podcasts"] {
+    background: #e4e9ee;
+    color: black;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Books"] {
+    background: #e4e9ee;
+    color: black;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Data science"] {
+    background: #e4e9ee;
+    color: black;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Research"] {
+    background: #e4e9ee;
+    color: black;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Goals"] {
+    background: #e4e9ee;
+    color: black;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Archives"] {
+    background: #e4e9ee;
+    color: black;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Projects"] {
+    background: #e4e9ee;
+    color: black;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Weekly review"] {
+    background: #576d7e;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="state-of-mind"] {
+    background: #576d7e;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="food-for-thought"] {
+    background: #576d7e;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Questions"] {
+    background: #576d7e;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Call"] {
+    background: #8998a4;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Weekly review"] {
+    background: #576d7e;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Email"] {
+    background: #8998a4;
+    color: white;
+    padding: 2px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
