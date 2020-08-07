@@ -16,6 +16,16 @@ As you may have noticed, the data tags also include symbols and icons before the
 
 ![custom-data-tags](https://github.com/StephanvdZwaard/custom-roam-light-theme/blob/master/custom-data-tags.png)
 
+
+<h2>Customized hyperlinks </h2>
+<hr>
+
+Based on the URL of the hyperlink, you can now also create custom colors for specific websites.
+In this example, references made to a URL that starts with https://www.evernote.com will be colored orange instead of blue.
+
+![custom-hyperlinks](https://github.com/StephanvdZwaard/custom-roam-light-theme/blob/master/custom-hyperlinks.png)
+
+
 <h2>Example of reading list </h2>
 <hr>
 
