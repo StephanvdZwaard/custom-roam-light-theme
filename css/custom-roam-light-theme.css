@@ -170,24 +170,48 @@ span.bp3-icon-small.bp3-icon-star {
 .rm-level2 {
     font-size: 1.5em;
 }
+
 .rm-level3 {
     color: #939aae;
     font-weight: 400;
     font-size: 1.3em;
 }
+
 .rm-page-ref {
     color: #bbccdd;
 }
+
 .rm-page-ref-link-color {
     color: #ec6f35;
     font-weight: 600;
 }
+
 a {
     color: #1781c3;
 }
+
 a[href^="https://medium.com/"] {
     color: #ec6f35;
 }
+
+
+iframe[id^='twitter-widget-']{  	
+  	max-height: 500px;
+    max-width: 300px;
+    margin-left: auto;
+  	margin-right: auto;
+}
+
+.twitter-tweet.twitter-tweet-rendered {
+    display: flex;
+    max-width: 300px;
+  	max-height: 500px;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
 .intercom-app,
 .intercom-launcher-frame,
 #intercom-container {
